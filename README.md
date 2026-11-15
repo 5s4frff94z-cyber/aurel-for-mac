@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/5s4frff94z-cyber/aurel-for-mac/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20Download-Aurel--for--Mac.zip-7f77dd?style=for-the-badge" alt="Download Aurel for Mac"></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/macOS-Apple%20silicon%20%C2%B7%2016%20GB-15122b?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Apple silicon, 16 GB">
+  <img src="https://img.shields.io/badge/macOS-Apple%20silicon%20%C2%B7%2016%20GB-15122b?style=for-the-badge" alt="macOS Apple silicon, 16 GB">
 </p>
 
 **Aurel for Mac** is an AI that runs entirely on your Mac — it writes, researches, does math, builds documents and web pages, and listens to you. Your conversations and memory never leave the Mac. With the **Aurel app** on your phone you give it tasks on the go and follow every step.
